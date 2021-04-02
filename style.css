@@ -1,0 +1,144 @@
+body {
+  background: url(https://cdn.pixabay.com/photo/2018/01/14/23/12/nature-3082832_960_720.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+.header {
+  text-align: center;
+  color: whitesmoke;
+  background-color: #fff;
+}
+.main-header {
+  padding: 20px;
+  padding-left: 20px;
+  text-align: end;
+  color: whitesmoke;
+  cursor: pointer;
+  /* position: fixed; */
+}
+.magna {
+  background-color: aquamarine;
+  padding: 30px;
+  margin-top: 300px;
+  margin-bottom: 300px;
+  text-align: center;
+  color: white;
+}
+.header-box {
+  color: whitesmoke;
+  padding: 20px;
+  font-size: large;
+}
+.headline {
+  text-align: center;
+  width: 500px;
+  margin: 0 auto;
+  padding: 30px;
+  font: bold;
+  font-family: "Courier New", Courier, monospace;
+}
+
+.container1 {
+  display: flex;
+  width: 900px;
+  height: 400px;
+  margin: 0 250px;
+  background-color: whitesmoke;
+}
+.section-1 {
+  background: url(https://images.creativemarket.com/0.1.0/ps/1092493/600/400/m2/fpnw/wm0/white-wood-horizontal-sml-.jpg?1458175543&s=a330256de04a15b19a79dad40af6b787&fmt=webp);
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  width: auto;
+  background-size: cover;
+}
+
+.flex-1 {
+  width: 550px;
+  height: 400px;
+  padding: 0px 40px;
+  font-weight: 100;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+.image-1 {
+  width: 350px;
+  height: 400px;
+}
+.button-1 {
+  font-size: large;
+  padding: 15px;
+  background-color: #57c6ae;
+  border: none;
+  color: white;
+}
+.main-container {
+  padding: 30px 0px;
+}
+.div-1 {
+  width: 200px;
+  height: 200px;
+  text-align: center;
+  padding: 80px;
+  padding-bottom: 200px;
+}
+.image-2 {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  text-align: center;
+  justify-content: space-between;
+}
+.flex-2 {
+  display: flex;
+  margin: 0 auto;
+  justify-content: center;
+}
+.section-2 {
+  background-color: white;
+}
+.section-3 {
+  background-color: #292f33;
+}
+.background-color {
+  background-color: #292f33;
+}
+
+.color-change {
+  color: white;
+}
+.name-id {
+  text-align: center;
+  padding: 20px;
+  padding-bottom: 40px;
+}
+.input {
+  padding: 15px 2px;
+  margin: 15px;
+  width: 37vh;
+  border: none;
+}
+.fas:hover {
+  border-color: #57c6ae;
+}
+.icon {
+  display: flex;
+  list-style: none;
+  justify-content: center;
+  padding: 10px;
+}
+.fab,
+.fas {
+  padding: 10px;
+}
+.copy {
+  text-align: center;
+}
+.footer {
+  background-color: #fff;
+  padding: 20px;
+}
+#message{
+  border: none;
+}
